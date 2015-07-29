@@ -280,7 +280,7 @@ nav a:hover {
 		font-size:13px;
 	font-weight:300;
 }
-.about_details h3,.products_details h3{
+.about_details h3,.products_details h3,.news_list h3{
 	margin:0;
 	font-size:13px;
 }
